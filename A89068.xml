@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius Britanicus his spectacles, sent to Iudge Jenkins to peruse his recantation, (with some queries taken out of his Confession,] [sic] in vindication of the Parliament of England.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89068</idno><idno type="EEBO-CITATION">43663307</idno>
+  <idno type="VID">172068</idno>
+  <idno type="EEBO-PROQUEST">2240897939</idno>
+  
+            <idno type="STC">Wing M1757</idno>
+            <idno type="STC">ESTC R201506</idno>
+            <idno type="OCLC">43663307</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2612:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius Britanicus his spectacles, sent to Iudge Jenkins to peruse his recantation, (with some queries taken out of his Confession,] [sic] in vindication of the Parliament of England.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Judge David Jenkins was imprisoned in the Tower as a royalist during Civil War and Commonwealth.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jenkins, David, 1582-1663.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172068:1"/>
+            <head>Mercurius Britanicus</head>
+            <head type="sub">His Spectacles, sent to Iudge <hi>Jenkins</hi> to peruse his Recantation, (with some queries taken out of his Confession,] In vindication of the <hi>Parliament</hi> of ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">A</seg>ND is this the reward of the <hi>Alchimists</hi> Cost and study? And must it needs be the <hi>Philosopher Stone?</hi> such sparkles will sooner make a brasen face then a Golden▪Age; I will make good what I say. Make way in the Court there; Let <hi>Britanicus</hi> come in: <hi>David</hi> is no <hi>Iudge</hi> herre, But a Prisoner at the <hi>Barre.</hi> Come <hi>David,</hi> ap <hi>Ienkin,</hi> ap <hi>Iudge,</hi> ap <hi>Malignant,</hi> ap <hi>Prisoner,</hi> hold up thy hand: Thou art In<g ref="char:EOLhyphen"/>dicted for high Treason, for adhearing to the forces raised against the Parliament; what canst thou say for thy selfe? art thou guilty or not Guilty?</p>
+            <pb n="2" facs="tcp:172068:2"/>
+            <p> And why not indure a Triall? Look to him Jaylor: But what are the reasons that Mr. <hi>Ienkins</hi> will not submit, let us examine them, least others be seduced to follow this evill example of ca<g ref="char:EOLhyphen"/>sting a way themselves.</p>
+            <p n="1">1. He saith, <hi>That the houses have not power, because the house of Commons declared the King at this time not to be in a condi<g ref="char:EOLhyphen"/>tion to governe, from whom they should have a vertue to govern.</hi> But (under favour) let me tell him, that where ever the Kings Person is, or in what condition soever, yet the Royall Power is in the Parliament; 1. <hi>Radically,</hi> and <hi>Vertually,</hi> as in the first subject (they being the representative bodie of the whole King<g ref="char:EOLhyphen"/>dome) 2. <hi>Collativè vel Communicativè,</hi> by way of free do<g ref="char:EOLhyphen"/>nation. 3. <hi>Limitatè</hi> The Power being so conferred upon the King, that <hi>salus populi,</hi> the safety of the people be preserved; <hi>Iudges</hi> 9. 6. 1 <hi>Sam.</hi> 11. 15. 2 <hi>Kings</hi> 10. 5. 1 <hi>Chron,</hi> 12. 38. <hi>Bar<g ref="char:EOLhyphen"/>claius</hi> l. 3. <hi>Cont. Monarchomach</hi> l. &amp;c. 3. <hi>Lavater Serrarius, Cor<g ref="char:EOLhyphen"/>nelius a lapide.</hi>
+            </p>
+            <p n="2">2. That to declare the King not to be in a condition to go<g ref="char:EOLhyphen"/>verne is Contrary to the oath which the Members take, That his Majesty is the only and supreame Governour over all persons in all Causes.</p>
+            <p>The oath taken by the Members acknowledgeth a politique power in the King [governing according to his Oath at the Co<g ref="char:EOLhyphen"/>ronation] for the safety of the people: But not giving away that naturall power, which is retained in the Parliament, which they are bound to conserve. The Parliament are as essentiall Judges as the King; They have more then the King, which is, the Regall power by which they are called together, The represen<g ref="char:EOLhyphen"/>tative power by which they are chosen, and their owne power as parts and speciall Members of the people, which power re<g ref="char:EOLhyphen"/>maines with them in what condition soever the King is. <hi>Barcla<g ref="char:EOLhyphen"/>jus</hi>
+               <pb n="3" facs="tcp:172068:2"/>
+               <hi>Lex Rex pag.</hi> 60. <hi>Althusius polit.</hi> c. 1. n. 13. <hi>Marius Salomo<g ref="char:EOLhyphen"/>nius de princ.</hi> c. 2.</p>
+            <p n="3">3. Mr. <hi>Ienkins</hi> saith that this said Oath, and the said Decla<g ref="char:EOLhyphen"/>ration [viz. To the Scots Papers Nov. 28. pag. 8.] <hi>are both in the present Tence sworne, and declared, at one and the same time;</hi> But truly he hath been a very weak Lawyer to be Judge so long as he hath been, if he cannot distinguish a King betwixt <hi>jus Per<g ref="char:EOLhyphen"/>sonae,</hi> and <hi>jus Coronae,</hi> the power of the person, and the power of the Crowne, and Royall O<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce. For, to sweare an acknowledge<g ref="char:EOLhyphen"/>ment, That the King by the power of his Crowne and Royall Office which is virtually, both in the Parliament, and in all other his inferior Courts] is the only and supreame Governour present there over all Persons in all Causes; and to declare that the Person of the King is not in a capacity to Governe, when the man that is the King is so, is no contradiction at all, nor any lesso<g ref="char:EOLhyphen"/>ning of the Authority of the Parliament, but a manifestation of that just Power by which they Act: As a Woman that shall o<g ref="char:EOLhyphen"/>bey the Kings officiall power, in giving faith to her Husband [ac<g ref="char:EOLhyphen"/>cording to the Lawes of the Land] to give her body only to him, and yet shall oppose the Man that is a King, in case he shall offer to Ravish her: The like also in case the King be a Child, and desire things unmeet, or a mad man and seek to kill himselfe, or his subjects. <hi>Arnisaeus</hi> 16. <hi>Laertius</hi> 3. <hi>in Plato. Covarruvias Pract. quest.</hi> c. 1. <hi>Vasquez. Illustr. quest.</hi> l. 1. c. 4. <hi>nu.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>2. <hi>Lex Rex fol.</hi> 267. <hi>Acts</hi> 4. 19. <hi>Acts</hi> 5. 29 <hi>Chrysostom on Rom.</hi> 13.</p>
+            <p n="4">4. He sayes that <hi>the two Houses are the only supreame Go<g ref="char:EOLhyphen"/>vernours in default of the King, for that he hath left his great Councell,</hi> and yet would blame them for <hi>not suffering him to come upon his desire, as if this were Contrary to their Oath.</hi> This <hi>Iudge</hi> is a Reverend <hi>Machivilian.</hi> But to answer him, In this (I say) they do nothing against the royal Office of the <hi>King;</hi> Whilst both Houses restrain the <hi>Kings private will,</hi> as a <hi>Man,</hi> they act
+<pb n="4" facs="tcp:172068:3"/> for him as a <hi>King</hi> and obey his <hi>publique Legall will, de jure▪</hi> And whilest he is absent from his <hi>Parliament</hi> as a <hi>man,</hi> he is le<g ref="char:EOLhyphen"/>gally and in his <hi>Law-power</hi> present, and so the Parliament have his Supream power as <hi>Legally</hi> as if he were <hi>personally</hi> there with them, And they are preparing Propositions (which are al<g ref="char:EOLhyphen"/>most ready) for the safety of the people, to be made <hi>Acts</hi> by him. Mr. <hi>Knox</hi> Hist. of <hi>Scotland</hi> l. 2. page. 141. <hi>Winzetus ve<g ref="char:EOLhyphen"/>litat. adver. Grotius. de jure belli &amp; pacis.</hi> l. 1. c. 4. n. 7 Bar<g ref="char:EOLhyphen"/>clay adver. Monarchom l. 3. c. 8.</p>
+            <p n="5">5. He sayes that the <hi>Parliament have used the Kegis name only, but have not his Government.</hi> But by his leave they act by his power, (as is shewed already) But <hi>Illud tantum possumus, quod jure possumus.</hi> And therefore as power to govern justly is irrevocably committed by the 3. Estates (who made the King) to the King, so is that same power committed by the Sheriffes Cityes and Corporations to their <hi>Members,</hi> to decree in <hi>Par<g ref="char:EOLhyphen"/>liament</hi> what is just and good irrevocably; And if we regard the derived and executative power in Parliamentary <hi>Acts,</hi> they make a totall and compleate <hi>Soveraign-power, Althusius Politic.</hi> c. 25. n. 9. Lex: Rex. pag 377. H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>licarnass: l. 4. Antiq. Rom. An<g ref="char:EOLhyphen"/>gelo. Pol. l. 3. c. 3 <hi>Barclaius contra Monarch</hi> l. 4. c. 10. p. 268.</p>
+            <p n="6">6. He would make the world beleive that <hi>the Royall Power is not vertually in the Houses because they send the Propositi<g ref="char:EOLhyphen"/>ons to be signed by the King.</hi> They desire the <hi>King</hi> to signe them <hi>ex decentia,</hi> of decency and conveniency for his place, (as a City doth supplicate a Lord <hi>Major.</hi> But they supplicate not <hi>ex debito,</hi> of obligation as beggars seek almes: then should they be ci<g ref="char:EOLhyphen"/>phers, They send them to the King because he is obliged by his o<g ref="char:EOLhyphen"/>ffice to passe such Acts as they shall present to him, which he is bound to passe, by an act of <hi>Royall</hi> debt psal: 72▪ 13. <hi>Lex Rex.</hi> pag. 210 <hi>Cornelius Bertramon</hi> c. 12. <hi>Iunius Brutus vindic. con<g ref="char:EOLhyphen"/>tra Tyran. S</hi> 2. <hi>Author. Libelli de jure magistrat. in subd. q.</hi> 6.
+<pb n="5" facs="tcp:172068:3"/>
+               <hi>Althus. Politic.</hi> c. 18. <hi>Buchanan de jure Regis apud Scotos,</hi>
+            </p>
+            <p n="7">7. He saith that <hi>to affirme that the Kings power is separable from his person is High-Treason.</hi> And give some Examples of the <hi>Spencers</hi> and others, which are quite from our case and very much different; We exclude not the person of the King yet wee distinguish (with leave of the Judge) betwixt the persons in <hi>li<g ref="char:EOLhyphen"/>nea Physica</hi> (we must take <hi>phisica</hi> largely heere,) and in <hi>linea morali,</hi> obedience, fear, tribute honour is due to the person of the King &amp; to the man who is the King, not because of his person, or because he is a man (Mr. <hi>Ienkins</hi> may know in what motion, wee take the named person) but because God by the peoples election, hath exalted him to a Royall Dignity, and for this cause ill do<g ref="char:EOLhyphen"/>ers are to subject their Throates and Necks to the sword of the Kings <hi>Executioner,</hi> or <hi>Hang-man:</hi> But if a <hi>King</hi> seeke to de<g ref="char:EOLhyphen"/>stroy his Subjects contrary to the <hi>Law</hi> of God, and the Lawes of the Kingdome, whom [by his <hi>Oath</hi> he is bound to preserve] in such a case there is the Royall power in the <hi>Parliament;</hi> to pre<g ref="char:EOLhyphen"/>serve the people and bring those delinquents to tryall which put him upon such dangers. <hi>Acts</hi> 4. 19. <hi>Rom.</hi> 13. 1. <hi>Grot. de jure bel<g ref="char:EOLhyphen"/>li, &amp; pacis,</hi> l. 1. c. 4. n 7. <hi>Winzetus velitat. adver. Buchanan. Barclay adv. Monarchom</hi> l. 3. c. 8.</p>
+            <p n="8">8. He Inlargeth himselfe upon his 6. argument <hi>concerning the Kings passing of Acts</hi> But let the Judge tell me where there was ever any judiciall <hi>Act</hi> without the <hi>Parliament</hi> or that the <hi>King</hi> had ever a negative voyce in <hi>Parliament.</hi>
+            </p>
+            <p n="9">9 He saith, <hi>That the whole and sole power of pardoning</hi> Treasons, and Fellonies, <hi>belongs to the</hi> King; <hi>And he saith that there was never more cause to have sufficient pardons, then in such troublesome times as these.</hi> But [under favour] Though Kings may do something of <hi>grace</hi> where there is signe of grace, yet not of <hi>meere grace</hi> alone, because, what Kings doe, as Kings, and by
+<pb n="6" facs="tcp:172068:4"/> vertue of their Royall office, that they do <hi>ex debito officij,</hi> by debt, and right of their office and that they can not in conscience but do, it not being arbitrary to them to doe the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>btfull acts of their office. But what they doe of <hi>meere grace,</hi> that they doe as mercifull men. Some <hi>Kings</hi> have given four pardons to one man for severall murders though no shew of Repentance, of grace in the malefactor. But did not the blood of the three lastly up<g ref="char:EOLhyphen"/>on that <hi>Kings</hi> Conscience, to dispute with blood, <hi>Numb.</hi> 35. 31. <hi>Gen</hi> 9. 6: <hi>Rom</hi> 13: 4, <hi>Prov</hi> 17. 15. <hi>Deut:</hi> i. 17. 2 <hi>Chron</hi> 19. 6. <hi>Illud potest Rex, &amp; illud tantum quod jure potest Lex Rex:</hi> The words are thus: <hi>From this it is that deluded councellors made King</hi> Iames [a man not of shallow understanding] and <hi>King</hi> Charles <hi>to give pardons to such bloody murderers, as</hi> Iame<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Grant. <hi>And the pardoning of the</hi> condem'nd popish priests at New-gate was much contested about by the Parliement. To what effect was the Arch-Bishop of <hi>Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terburyes</hi> Pardon?</p>
+            <p n="10">10, Lastly he layes down An Argument, such a one, as is more positively for the Authority of the <hi>Parliament,</hi> then all that e<g ref="char:EOLhyphen"/>ver he said before had any shew of lessoning their <hi>power Queene Elizabeth</hi> [saith he] summoned her first Parliament, to be held the 23: of Ian. in the first yeare of her Majesties Reign. The <hi>Lords</hi> and <hi>Comusons,</hi> Assembled the 25 of the same Month of <hi>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> [and did not sit before, what ever he pretendes. The Acts of that Parliament beare date Ian: 25 that day they sate; not when they were summoned, and being so concluded by the two houses the queene sent to the Reverend Iudges for their opinions; <hi>And it was resolved by all the Iudges of</hi> England, that <hi>the</hi> parliament <hi>began not the</hi> 23 of Ianuary <hi>but</hi> Ian: the 25 [notwithstanding her Majesties former summons.] As appears 3: <hi>Elizab: Dier:</hi> 203: The Iudge you see argues very finely doth he not indeed the man [very likely] begins to dote in his old Age.</p>
+            <p>And this we well know, that all Acts of Parliament, beare da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+<pb n="7" facs="tcp:172068:4"/>
+[not from the time of the Coronation of the present King in whose Raigne they are made, but] from the time of each Parlia<g ref="char:EOLhyphen"/>ments first sitting.</p>
+            <p>See how he concludes, He saith thus.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>I <hi>Should hold it a great honour to die for the honourable and holy Lawes of the Land: That which will save this Land from d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>struction is an Act of oblivion and his Majesties gra<g ref="char:EOLhyphen"/>cious generall pardon; the Souldiers their Arrears, and every man his owne, and truth and peace, established in the Land, and a favourable regard had to the satisfaction of Tender consciences.</hi>
+                  </p>
+                  <p>Subscribed</p>
+                  <closer>
+                     <signed>David Jenkins.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Vpon this Conclusion I shall lay downe a few Queries which I observ'd in the reading thereof.</p>
+            <p n="1">1. What Judge <hi>Ienkins</hi> meanes by Holy Lawes, for he doth not say the Lawes of the Land but the Holy Lawes, nor can he so properly call the Scripture the Lawes of <hi>England,</hi> for those are the <hi>Lawes</hi> of the whole Christian world, whether therefore he meanes not the holy <hi>Canon Lawes</hi> of the <hi>Bishops</hi> [for so those are called by the Cavaliers,] or perhaps the Lawes of <hi>Rome</hi> gi<g ref="char:EOLhyphen"/>ven to be observed by the Papists in <hi>England,</hi> for whom he hath done eminent service.</p>
+            <p n="2">2. What he meanes by dying in <hi>Honour,</hi> whether he expects to be Canonized at <hi>Rome</hi> for his good service?</p>
+            <p n="3">3 Whether his opinion for an Act of oblivion, be not directly contrary to what he layd downe in his ninth Argument?</p>
+            <p n="4">4. Whether all that which followes concerning Souldiers Ar<g ref="char:EOLhyphen"/>rears, tender consciences, and the rest be not published by him, purpoesly to foment divisions amongst us, and raise and increase differences?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
